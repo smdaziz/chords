@@ -1,4 +1,4 @@
-This is a project involving Natural Language Processing.
+This is a Natural Language Processing project.
 
 I have implemented CYK (Cocke–Younger–Kasami) Algorithm for validating a statement entered in English language
 
