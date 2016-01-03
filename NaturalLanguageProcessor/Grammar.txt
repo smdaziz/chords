@@ -1,0 +1,99 @@
+S -> NP VP
+S -> Verb NP
+S -> Verb PP
+S -> VP PP
+S -> X1 VP
+S -> X2 PP
+X1 -> Aux NP
+X2 -> Verb NP
+NP -> Det Nominal
+VP -> Verb NP
+VP -> Verb PP
+VP -> VP PP
+VP -> X2 PP
+Nominal -> Nominal Noun
+Nominal -> Nominal PP
+PP -> Preposition NP
+S -> book
+S -> include
+S -> prefer
+NP -> I
+NP -> she
+NP -> me
+NP -> TWA
+NP -> Houston
+Nominal -> book
+Nominal -> flight
+Nominal -> meal
+Nominal -> money
+Noun -> book
+Noun -> flight
+Noun -> meal
+Noun -> money
+VP -> book
+VP -> include
+VP -> prefer
+Det -> that
+Det -> this
+Det -> a
+Det -> the
+Verb -> book
+Verb -> include
+Verb -> prefer
+Pronoun -> I
+Pronoun -> she
+Pronoun -> me
+ProperNoun -> Houston
+ProperNoun -> TWA
+Aux -> does
+Aux -> I
+Preposition -> from
+Preposition -> to
+Preposition -> on
+Preposition -> near
+Preposition -> through
+Preposition -> in
+S -> A1 A2
+A1 -> Aux Verb
+A2 -> A3 Noun
+A3 -> Noun Preposition
+verb -> find
+Pronoun -> baggage
+ProperNoun -> arrivals
+S -> A3 ProperNoun
+A3 -> A4 Preposition
+A4 -> A5 Pronoun
+A5 -> Verb Det
+Preposition -> please
+Det -> she
+Nominal -> will
+Verb -> pay
+NP -> money
+Det -> is
+Nominal -> there
+Verb -> any
+Det -> refund
+Nominal -> provided
+Det -> please
+Nominal -> provide
+Verb -> the
+NP -> feedback
+Verb -> your
+NP -> passport
+Det -> read
+Nominal -> the
+Verb -> instructions
+NP -> carefully
+Det -> no
+Nominal -> vacancy
+Verb -> in
+NP -> CathayPacific
+Det -> Passengers
+Pronoun -> are
+Verb -> requested
+Verb -> board
+Verb -> Keep
+Nominal -> handy
+Verb -> Follow
+NP -> emergency
+Verb -> exit
